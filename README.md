@@ -7,4 +7,4 @@ Aprenda javascript de forma simples
 
 ### Link do curso
 
-![aula java script](google.com)
+![aula java script](https://google.com)
