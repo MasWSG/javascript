@@ -3,4 +3,4 @@
 Aprenda javascript de forma simples
 
 
-![homem-letra](https://github.com/MasWSG/javascript/edit/main/homem-letra.gif)
+![homem-letra](https://github.com/MasWSG/javascript/blob/main/homem-letra.gif)
