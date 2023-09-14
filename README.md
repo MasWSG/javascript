@@ -1,3 +1,4 @@
+https://gist.github.com/PurpleBooth/1093311bb0361f32b87a2
 # Lingaugem JavaScript
 ## Curso - Primeiros passos com a linguagem javascript
 Aprenda javascript de forma simples
